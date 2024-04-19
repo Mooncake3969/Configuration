@@ -1,3 +1,3 @@
 test,Raymond,0
 shortya,Shaurya,1
-copper,Cooper,1
+copper,Cooper,0
