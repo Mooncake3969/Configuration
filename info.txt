@@ -1,3 +1,8 @@
 test,Raymond,0
 shortya,Shaurya,0
 copper,Cooper,0
+zicxiao,Zixiao,1
+pickle,Meher,1
+avaguava,Leland,1
+coconuttynut,Victor,1
+stellarpalm,--,1
