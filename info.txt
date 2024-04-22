@@ -9,3 +9,4 @@ stellarpalm,--,1
 code1434,--,1
 code42609,--,1
 q4r9c,--,1
+raggyshort,raggy,1
