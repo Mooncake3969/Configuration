@@ -1,4 +1,4 @@
-test,Raymond,0
+test,Raymond,1
 shortya,Shaurya,0
 copper,Cooper,0
 zicxiao,Zixiao,1
