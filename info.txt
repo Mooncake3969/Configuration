@@ -7,5 +7,4 @@ avaguava,Leland,0
 coconuttynut,Victor,0
 stellarpalm,--,1
 code1434,--,0
-code42609,--,1
 q4r9c,--,1
