@@ -1,6 +1,6 @@
 test,Raymond,0
 zicxiao,Zixiao,0
-pickle,Meher,1
+pickle,Meher,0
 avaguava,Leland,0
 coconuttynut,Victor,0
 code1434,Max,0
