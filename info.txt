@@ -8,4 +8,4 @@ gatorpayter,Jack,0
 yangjia,Yanjia,0
 15secantcell,Henry,0
 davkaba,Aarush,0
-raggyshort,Raggy,1
+raggyshort,Raggy,0
