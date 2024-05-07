@@ -7,6 +7,6 @@ code1434,Max,0
 gatorpayter,Jack,0
 yangjia,Yanjia,0
 15secantcell,Henry,0
-davkaba,Aarush,0
+davkaba,Aarush,-1
 raggyshort,Raggy,0
 josn,Caleb,0
