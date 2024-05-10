@@ -11,4 +11,4 @@ davkaba,Aarush,-1
 raggyshort,Raggy,0
 josn,Caleb,0
 usfd,Timothy,0
-sped,HenrySun,1
+sped,HenrySun,0
