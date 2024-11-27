@@ -1,14 +1,1 @@
-test,Raymond,0
-zicxiao,Zixiao,0
-pickle,Meher,0
-avaguava,Leland,0
-coconuttynut,Victor,0
-code1434,Max,0
-gatorpayter,Jack,0
-yangjia,Yanjia,0
-15secantcell,Henry,0
-davkaba,Aarush,-1
-raggyshort,Raggy,0
-josn,Caleb,0
-usfd,Timothy,0
-sped,HenrySun,0
+tst-1,524c,0
